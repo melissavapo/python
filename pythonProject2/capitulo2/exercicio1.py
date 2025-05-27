@@ -4,4 +4,4 @@ raio = 5 ** 3
 
 volume = fracao * pi * raio
 
-print("o volume de uma de uma esfera de raio 5 é:" , volume)
+print("o volume de uma esfera de raio 5 é:" , volume)
